@@ -4,4 +4,4 @@ tmp/*
 .venv
 .venv/*
 
-TODO.md
+TODO*.md
